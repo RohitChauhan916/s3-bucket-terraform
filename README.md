@@ -12,4 +12,8 @@ This Terraform project provisions an Amazon S3 bucket with bucket policies, vers
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/terraform-aws-s3-bucket.git
+   git clone https://github.com/RohitChauhan916/s3-bucket-terraform.git
+   cd s3-bucket-terraform
+   terraform init
+   terraform plan
+   terraform apply
